@@ -1,0 +1,12 @@
+{
+  "name": "grid_of_inventory",
+  "version": "0.1.5",
+  "title": "Simple Mod",
+  "author": "loryplayer",
+  "description": "Change various items, add radioactivity and handle the spawn of players",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.0",
+    "Krastorio2 >= 1.0"
+  ]
+}
